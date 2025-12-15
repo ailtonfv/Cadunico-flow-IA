@@ -7,6 +7,7 @@ A ideia é reduzir retrabalho e tempo gasto em correções repetitivas, utilizan
 **Conceptual workflow of CadÚnico Flow IA.**  
 Illustration representing the end-to-end process of data ingestion, automated validation, human review, and structured reporting to support the correction of inconsistencies returned from federal processing.
 
+![CadÚnico Flow IA – Conceptual Workflow](./app_cadunico_dio_01.png)
 
 # Problema
 Após o envio dos cadastros ao Governo Federal, os dados retornam com inconsistências (ex.: bairro, endereço, CEP, logradouro).
@@ -32,6 +33,7 @@ Queremos resolver isso com um aplicativo que organize essas tarefas de forma sim
 **Conceptual dashboard view.**  
 High-level visualization of a centralized workspace where municipal teams review, prioritize, and validate suggested corrections with AI assistance and full human control.
 
+![CadÚnico Flow IA – Conceptual Dashboard](./app_cadunico_dio_02.png)
 
 # Entregável da IA
 Gerar um plano de MVP com:
